@@ -1,12 +1,19 @@
 {
-    "date": "2020-12-24 20:14:28.492568",
+    "date": "2020-12-24 20:18:32.503167",
     "proxies": [
+        {
+            "ip": "180.183.112.34",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 13590
+        },
         {
             "ip": "47.89.177.54",
             "port": "80",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 17090
+            "youtube_total_time": 13840
         }
     ]
 }
